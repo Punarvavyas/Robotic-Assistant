@@ -1,0 +1,1 @@
+This is a folder where the API of the organization which would be served to the mobile app resides
